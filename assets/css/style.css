@@ -77,7 +77,6 @@ p {
     margin-left: 20px;
 }
 
-/* changed benefits to aside  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -191,7 +190,8 @@ p {
     font-size: 36px;
 }
 
-.footer {
+/* deleted periods before footer element  */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -199,6 +199,6 @@ p {
 }
 
 /* changed h2 to h4  */
-.footer h4 {
+footer h4 {
     font-size: 20px;
 }
